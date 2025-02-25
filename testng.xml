@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Quickbase Test Suite" >
+    <test name="Quickbase Test - Chrome">
+        <parameter name="browser" value="chrome"/>
+        <parameter name="random" value="randomStr"/>
+        <parameter name="randomemail" value="random"/>
+        <classes>
+            <class name="tests.Notestable"/>
+        </classes>
+    </test>
+</suite>
