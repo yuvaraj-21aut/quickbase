@@ -8,7 +8,7 @@ import test.BaseTest;
 
 import java.time.Duration;
 
-public class NewTable  extends BaseTest {
+public class NewTableTest  extends BaseTest {
 
     @Test
     @Parameters({"random"})

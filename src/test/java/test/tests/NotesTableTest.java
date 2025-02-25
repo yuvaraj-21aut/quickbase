@@ -1,16 +1,13 @@
 package test.tests;
 
-import Util.CheckBoxUtils;
+
 import Util.RandomString;
-import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
 import org.testng.annotations.*;
 import test.BaseTest;
 import java.time.Duration;
 
 
-public class Notestable extends BaseTest {
+public class NotesTableTest extends BaseTest {
 
     @Test
     @Parameters({"email", "random"})

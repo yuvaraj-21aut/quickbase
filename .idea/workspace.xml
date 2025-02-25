@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="292eb6dc-52cf-4b5c-ac35-8135733ae9ec" name="Changes" comment="Quickbase assesment project">
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/tests/Notestable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/tests/NotesTable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2tRUEmV7JkkYKU54zTvjNV6988g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/Dell/POM_Framework_fixed/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NewTable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.NewTable.testNewtable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Notestable (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Notestable.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.quickbase (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.quickbase.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.quickbase.testAddnote.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.quickbase.testNotestable.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/Dell/POM_Framework_fixed/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/POM_Framework_fixed&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\POM_Framework_fixed\src\test\java\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.notestable">
+    <configuration name="NewTable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.tests.NewTable" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewTable.testNewtable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.tests.NewTable" />
+      <option name="METHOD_NAME" value="testNewtable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Notestable (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Notestable" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="notestable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.tests.notestable" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quickbase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.tests.quickbase" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.notestable" />
+        <item itemvalue="TestNG.NewTable" />
+        <item itemvalue="TestNG.NewTable.testNewtable" />
+        <item itemvalue="TestNG.Notestable (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="292eb6dc-52cf-4b5c-ac35-8135733ae9ec" name="Changes" comment="" />
+      <created>1740314271398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740314271398</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Quickbase assesment project">
+      <option name="closed" value="true" />
+      <created>1740459369913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740459369913</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Quickbase assesment project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quickbase assesment project" />
+  </component>
+</project>
