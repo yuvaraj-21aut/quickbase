@@ -8,7 +8,7 @@ import java.time.Duration;
 public class Browserlib {
     private WebDriver driver;
 
-    public void setup(String browser) throws InterruptedException {
+    public void setup(String browser) {
         if (browser.equalsIgnoreCase("chrome")) {
             WebDriverManager.chromedriver().setup();
             driver = new ChromeDriver();
