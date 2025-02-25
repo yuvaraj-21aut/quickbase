@@ -5,8 +5,8 @@
         <parameter name="random" value="randomStr"/>
         <parameter name="randomemail" value="random"/>
         <classes>
-            <class name="   test.tests.NotesTableTest"/>
-            <class name="   test.tests.NewTableTest"/>
+            <class name="test.tests.NotesTableTest"/>
+            <class name="test.tests.NewTableTest"/>
         </classes>
     </test>
 </suite>
