@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="292eb6dc-52cf-4b5c-ac35-8135733ae9ec" name="Changes" comment="Quickbase assesment project">
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/tests/Notestable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/tests/NotesTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/Java/pages/AddNotePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Java/pages/AddNotePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/AddNotePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/AddNotePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/tests/NewTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/tests/Notestable.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +25,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/Java/pages/AddNotePage.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -34,27 +46,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/Dell/POM_Framework_fixed/testng.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.NewTable.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.NewTable.testNewtable.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Notestable (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.Notestable.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.quickbase (1).executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.quickbase.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.quickbase.testAddnote.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.quickbase.testNotestable.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;C:/Users/Dell/POM_Framework_fixed/src/test/java&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/POM_Framework_fixed&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/Dell/POM_Framework_fixed/testng.xml.executor": "Run",
+    "TestNG.NewTable.executor": "Run",
+    "TestNG.NewTable.testNewtable.executor": "Run",
+    "TestNG.NotesTableTest.executor": "Run",
+    "TestNG.Notestable (1).executor": "Run",
+    "TestNG.Notestable.executor": "Run",
+    "TestNG.quickbase (1).executor": "Run",
+    "TestNG.quickbase.executor": "Run",
+    "TestNG.quickbase.testAddnote.executor": "Run",
+    "TestNG.quickbase.testNotestable.executor": "Run",
+    "git-widget-placeholder": "quickbase__01",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Dell/POM_Framework_fixed/src/test/java",
+    "last_opened_file_path": "C:/Users/Dell/POM_Framework_fixed"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\POM_Framework_fixed\src\test\java\test" />
@@ -64,7 +77,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.notestable">
+  <component name="RunManager" selected="TestNG.NotesTableTest">
     <configuration name="NewTable" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="POM_Framework" />
       <extension name="coverage">
@@ -94,6 +107,23 @@
       <option name="MAIN_CLASS_NAME" value="test.tests.NewTable" />
       <option name="METHOD_NAME" value="testNewtable" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NotesTableTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="POM_Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.tests" />
+      <option name="MAIN_CLASS_NAME" value="test.tests.NotesTableTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -134,25 +164,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickbase" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="POM_Framework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.tests" />
-      <option name="MAIN_CLASS_NAME" value="test.tests.quickbase" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NotesTableTest" />
         <item itemvalue="TestNG.notestable" />
         <item itemvalue="TestNG.NewTable" />
         <item itemvalue="TestNG.NewTable.testNewtable" />
@@ -177,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740459369913</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Quickbase assesment project">
+      <option name="closed" value="true" />
+      <created>1740459804196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740459804196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
